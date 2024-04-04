@@ -1,0 +1,11 @@
+#b1{
+border: 1px solid black;  
+margin: 1rem;
+padding: 1rem;
+box-shadow: 1rem 1rem 1rem gray;
+border-radius: 2rem;
+}
+
+#b2{
+    border: 1px solid red;  
+}
